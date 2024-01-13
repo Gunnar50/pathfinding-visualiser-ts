@@ -45,6 +45,11 @@ Start the development server
 npm run dev
 ```
 
+Open localhost on port 5173 on a browser window
+```
+http://localhost:5173/
+```
+
 ## 🛠️ Technology Stack
 
 - Pathfiding Algorithms
