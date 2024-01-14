@@ -13,7 +13,7 @@ This is an on going side project to better understand pathfiding algorithms.
 
 ### Working on:
 
-- testing of dijkstra algorithm
+- CSS animations
 
 ### Know bugs:
 
@@ -43,6 +43,11 @@ Start the development server
 
 ```
 npm run dev
+```
+
+Open localhost on port 5173 on a browser window
+```
+http://localhost:5173/
 ```
 
 ## 🛠️ Technology Stack
